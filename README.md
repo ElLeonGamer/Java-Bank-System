@@ -59,5 +59,10 @@ Only three test accounts are available for simulation.
 The system does not save data after being closed, since it doesn't use any databases or file storage.
 
 
-Created by Leon Gamer
-E-Mail: jeffreydeleon52@gmail.com
+## 👤 Author
+
+**Jeffrey Alexander De Leon Estrada**  
+📧 jeffreydeleon52@gmail.com  
+🌍 Villanueva, Guatemala  
+🎮 AKA: **Leon Gamer**
+
