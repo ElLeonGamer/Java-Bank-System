@@ -29,6 +29,7 @@ This project is a basic simulation of a banking system in Java, running through 
 
 
 2. Compile the program:
+    ```bash
     javac BankAccount.java
 
 3. Compila el programa:
