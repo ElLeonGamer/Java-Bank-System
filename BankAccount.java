@@ -34,7 +34,7 @@ public class BankAccount {
 
     private int validateAccount(int SearchAcct) {
         for (int i = 0; i < accounts.length; i++) {
-            if (SearchAcct == accounts[i]) {
+            if (SearchAcct == clients[i].getAccountNumber()) {
                 System.out.println("Account number found!");
                 return i;
             }
