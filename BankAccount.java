@@ -1,10 +1,7 @@
 import java.util.Scanner;  // Import Scanner
 
 public class BankAccount {
-    int[] accounts = {5843, 8945, 4987};
-    long[] IDCard = {572994821337L, 839127456920L, 10478836215L};
-    float[] accountBalance = {500.00f, 200.16f, 5027.50f};
-    String[] Passwords = {"Guate25", "Conduent32", "WAWAWA17"};
+
     boolean match = false;
 
     Client[] clients = {
