@@ -7,6 +7,14 @@ public class BankAccount {
     String[] Passwords = {"Guate25", "Conduent32", "WAWAWA17"};
     boolean match = false;
 
+    Client[] clients = {
+
+        new Client(5843,572994821337L,500.00f,"Guate25")
+        new Client(8945,839127456920L,500.00f,"Conduent32")
+        new Client(4987,10478836215L,500.00f,"WAWAWA17")
+
+    }
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);  // Create Scanner
         BankAccount bank = new BankAccount();  // Instantiate class
